@@ -1,0 +1,12 @@
+# Robots.txt for bigkrzyh.github.io
+# Developer Portfolio - Krzysztof Kuźmicki
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bigkrzyh.github.io/sitemap.xml
+
+# App-ads.txt for ad verification
+# Available at: https://bigkrzyh.github.io/app-ads.txt
+

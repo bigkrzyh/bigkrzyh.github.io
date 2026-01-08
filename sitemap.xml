@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- English (Default) -->
+    <url>
+        <loc>https://bigkrzyh.github.io/</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://bigkrzyh.github.io/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/ru/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/"/>
+    </url>
+    
+    <!-- Polish -->
+    <url>
+        <loc>https://bigkrzyh.github.io/pl/</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://bigkrzyh.github.io/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/ru/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/"/>
+    </url>
+    
+    <!-- Ukrainian -->
+    <url>
+        <loc>https://bigkrzyh.github.io/uk/</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://bigkrzyh.github.io/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/ru/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/"/>
+    </url>
+    
+    <!-- Russian -->
+    <url>
+        <loc>https://bigkrzyh.github.io/ru/</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://bigkrzyh.github.io/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/ru/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/"/>
+    </url>
+    
+    <!-- Znajdź Termin App Support Site -->
+    <url>
+        <loc>https://bigkrzyh.github.io/znajdz-termin/</loc>
+        <lastmod>2025-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+</urlset>
+
