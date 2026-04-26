@@ -61,7 +61,23 @@
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
-    
+
+    <!-- EgzaminNaPrawko App Support Site -->
+    <url>
+        <loc>https://bigkrzyh.github.io/EgzaminNaPrawko/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- MoltViewer App Support Site -->
+    <url>
+        <loc>https://bigkrzyh.github.io/MoltViewer/</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
     <!-- App Ads.txt for AdMob Verification -->
     <url>
         <loc>https://bigkrzyh.github.io/app-ads.txt</loc>
